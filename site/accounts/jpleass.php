@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
+  - projects/project-a
   - projects/obituary-notice
   - projects/young-mali
   - projects/mapping-cultural-cairo
   - projects/mission-harpsichord
-  - projects/more-than-a-desert

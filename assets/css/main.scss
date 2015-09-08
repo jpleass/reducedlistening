@@ -1,13 +1,26 @@
 /* Variables
 -------------------------------------------------- */
+
+$Pcolor: #222;
+$Scolor: #999;
+$gutter: 30px;
+
+
 /* Vegaantikva
 -------------------------------------------------- */
 @font-face {
-  font-family: 'vegaantikvaregular';
-  src: url("../fonts/vegaa-webfont.eot");
-  src: url("../fonts/vegaa-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/vegaa-webfont.woff2") format("woff2"), url("../fonts/vegaa-webfont.woff") format("woff"), url("../fonts/vegaa-webfont.ttf") format("truetype"), url("../fonts/vegaa-webfont.svg#vegaantikvaregular") format("svg");
-  font-weight: normal;
-  font-style: normal; }
+    font-family: 'vegaantikvaregular';
+    src: url('../fonts/vegaa-webfont.eot');
+    src: url('../fonts/vegaa-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/vegaa-webfont.woff2') format('woff2'),
+         url('../fonts/vegaa-webfont.woff') format('woff'),
+         url('../fonts/vegaa-webfont.ttf') format('truetype'),
+         url('../fonts/vegaa-webfont.svg#vegaantikvaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 /* Reset
 -------------------------------------------------- */
 *, *:before, *:after {
@@ -15,27 +28,34 @@
   padding: 0;
   border: 0;
   -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
-
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
 article, aside, details, figcaption, figure,
 footer, header, hgroup, main, nav, section, summary {
-  display: block; }
+  display: block;
+}
 
 /* Pix
 -------------------------------------------------- */
 img {
   display: block;
-  max-width: 100%; }
+  max-width: 100%;
+}
+
 
 /* Links
 -------------------------------------------------- */
+
+
 /* Clearfix
 -------------------------------------------------- */
 .cf:after {
   content: "";
   display: table;
-  clear: both; }
+  clear: both;
+}
+
 
 /* Site
 -------------------------------------------------- */
@@ -44,79 +64,94 @@ html {
   font-family: 'vegaantikvaregular';
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  font-size: 14px; }
-
+  font-size: 14px;
+}
 body {
   margin: 0 auto;
   font-size: 1em;
   line-height: 1.5em;
   background: #fff;
-  color: #222; }
+  color: $Pcolor;
+}
+
 
 /* Header
 -------------------------------------------------- */
+
 header {
   background-color: #FFF;
-  padding: 0.25em;
+  padding:0.25em;
   position: fixed;
   width: 100%;
-  font-size: 1em;
+  font-size:1em;
   position: relative;
-  text-align: center; }
+  text-align: center;
+}
+
 
 /* Navigation
 -------------------------------------------------- */
+
+
+
 /* Headings
 -------------------------------------------------- */
 h1 {
   font-size: 2em;
   line-height: 1.25em;
   font-weight: 400;
-  margin-bottom: .5em; }
-
+  margin-bottom: .5em;
+}
 h2 {
   font-size: 2em;
   line-height: 1.25em;
   font-weight: 300;
   margin-bottom: .5em;
-  color: #999; }
-
+  color: $Scolor;
+}
 h3 {
   font-size: 1.4em;
   line-height: 1.5em;
   font-weight: 400;
-  margin-bottom: .5em; }
-
+  margin-bottom: .5em;
+}
 h4 {
   font-size: 1.125em;
   font-weight: 600;
   line-height: 1.5em;
-  margin-bottom: .5em; }
-
+  margin-bottom: .5em;
+}
 h1 a, h2 a, h3 a, h4 a {
   color: inherit;
-  border: 0 !important; }
+  border: 0 !important;
+}
 
 /* Title
 -------------------------------------------------- */
+
 #title {
   width: 100%;
-  text-align: center; }
-  #title span {
+  text-align: center;
+  span{
     font-size: 12.5vw;
-    line-height: 0.5em; }
+    line-height: 0.5em;
+  }
+}
 
 /* Main
 -------------------------------------------------- */
 main {
   max-width: 978px;
-  margin: auto; }
+  margin: auto;
+}
 
 /* Project meta
 -------------------------------------------------- */
+
+
 /* Project teaser
 -------------------------------------------------- */
+
+
 /* Footer
 -------------------------------------------------- */
-
-/*# sourceMappingURL=main.css.map */
