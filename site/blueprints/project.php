@@ -11,9 +11,18 @@ fields:
   year:
     label: Year
     type:  text
+  client:
+    label: Client
+    type:  text
+  frontpagetext:
+    label: Front Page Text
+    type:  textarea
+    help: Text that will appear on front page description
   text:
     label: Text
     type:  textarea
-  tags:
-    label: Tags
-    type:  tags
+    help: Text for project level page
+  soudncloud:
+    label: SoundCloud Link
+    type:  text
+    help: Soundcloud embed link

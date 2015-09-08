@@ -1,17 +1,16 @@
-Title: Kirby Starterkit
+Title: Reduced Listening
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Peter Meanwell & Barney Rowntree
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Creative radio production, documentaries and podcasts from Peter Meanwell and Barney Rowntree
+----
+
+Keywords: Reduced Listening, Podcasts, Radio, Production
 
 ----
 
-Keywords: Kirby, CMS, file-based
-
-----
-
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: © 2015-(date: Year)

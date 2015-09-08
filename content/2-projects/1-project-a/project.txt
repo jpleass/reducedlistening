@@ -1,13 +1,21 @@
-Title: Project A
+Title: Bring Your Darlings Back To Life
 
 ----
 
-Year: 2014
-
-----
-
-Tags: outdoor
+Year: 2015
 
 ----
 
 Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Client: BBC Radio 4
+
+----
+
+Frontpagetext: Hidden away, beneath old newspapers, books of stamps and expectant sellotape lie the best pieces of work. They are the Darlings. The stories, the ornaments, the gems we are told to cut. It's a rule of writing passed around like an illegal cigarette. You must murder your darlings. Producers, script writers, authors, editors have all had the rule thrown at them. These scenes may be fantastically written, funny, evocative…but they don’t belong, they obscure the plot, blind us from the truth. But what if these anecdotes had a programme to themselves? What if you could bring those Darlings back to life ?
+
+----
+
+Soudncloud: 

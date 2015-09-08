@@ -1,13 +1,21 @@
-Title: Project B
+Title: The Business of Film with Mark Kermode
 
 ----
 
-Year: 2013
+Year: 2015
 
 ----
 
-Tags: city
+Text: 
 
 ----
 
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+Client: BBC Radio 4
+
+----
+
+Frontpagetext: Away from the art and artifice lie the financial barriers to getting a film made. For some, the movie industry in 2015 is little more than the 'branded carnival business'. The Hollywood studio system seeks success, replication, and reliability. Has an industry that was built by risk takers now become risk averse? Independent movie makers struggle to raise the finance for their films while the big studios produce movies that they know will turn a profit. This series for BBC Radio 4 quickly became the most dowloaded podcast in the UK as Mark Kermode revealed the economic realities behind the film industry.
+
+----
+
+Soudncloud: 
